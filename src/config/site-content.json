@@ -26,10 +26,6 @@
 		{
 			"id": "cat",
 			"url": "/images/art/cat.png"
-		},
-		{
-			"id": "bb2201baf8e03ffb",
-			"url": "/images/art/bb2201baf8e03ffb.png"
 		}
 	],
 	"currentArtImageId": "cat",
@@ -63,7 +59,7 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
