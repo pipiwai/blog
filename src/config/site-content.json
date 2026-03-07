@@ -26,13 +26,9 @@
 		{
 			"id": "cat",
 			"url": "/images/art/cat.png"
-		},
-		{
-			"id": "bb2201baf8e03ffb",
-			"url": "/images/art/bb2201baf8e03ffb.png"
 		}
 	],
-	"currentArtImageId": "bb2201baf8e03ffb",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,7 +40,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/pipiwai",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
