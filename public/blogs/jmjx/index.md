@@ -6,7 +6,7 @@
 
 一、首先我们打开即梦，切换到灵感点击某个视频或图片。
 
-![](https://zwf4g5rfwiy.feishu.cn/space/api/box/stream/download/asynccode/?code=YjIyY2UyMWE2M2JmNGM4NjU5NzdhZWEyYWEyODEzYzNfNjloalVxMnAxOHpycGZRYW9tQ1NnTkVjTnFqYjBva0hfVG9rZW46VG5qVWJnVXhMb3N0V3R4Qm9ONGMyeHRubjlOXzE3NzI5MTI3NTg6MTc3MjkxNjM1OF9WNA)
+![](https://cdn.nodeimage.com/i/6Dd02wUdZv9jtGlQj1bFiKQzruUT5ByY.webp)
 
 二、点击分享，获取链接。
 
