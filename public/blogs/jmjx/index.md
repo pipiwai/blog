@@ -6,11 +6,11 @@
 
 一、首先我们打开即梦，切换到灵感点击某个视频或图片。
 
-![](https://cdn.nodeimage.com/i/6Dd02wUdZv9jtGlQj1bFiKQzruUT5ByY.webp)
+![](https://cdn.nodeimage.com/i/oqAy3UaXX0E6uUhhS9cLM2oCLq9O30XE.webp)
 
 二、点击分享，获取链接。
 
-![](https://zwf4g5rfwiy.feishu.cn/space/api/box/stream/download/asynccode/?code=OTkyMGIxYjdkMWRiZWEwODY3OTVjYmZiZmZiNTJjNjBfYThLbk9saGhmNmRoeTcxbkd5QTF0Y2puNVBIQTUza2pfVG9rZW46V2ZKWWJraHN1b2RuRnZ4T0doVGM5dEVUblhmXzE3NzI5MTI3NTg6MTc3MjkxNjM1OF9WNA)
+![](https://cdn.nodeimage.com/i/6Dd02wUdZv9jtGlQj1bFiKQzruUT5ByY.webp)
 
 ## 开始解析
 
@@ -19,7 +19,7 @@
 
 二、点击【解析】按钮，等待网站解析完成;
 
-![](https://zwf4g5rfwiy.feishu.cn/space/api/box/stream/download/asynccode/?code=MTcwNWYyN2NiNzQ0ZTgyYzU2ZWZlNmVkNWQ5MTUyZjRfczZ0bDcxaVpyc1ZRR3lPNjNhNnZYdFp5ZDR6Z2x3alBfVG9rZW46UlpJZmJZUlRUb05DbTl4ZFlDV2N5NnhGbnFnXzE3NzI5MTI3NTg6MTc3MjkxNjM1OF9WNA)
+![](https://cdn.nodeimage.com/i/UHSiS80WT1DC0R33Ldr5lxONwnNGXYGe.webp)
 
 三、可以选择直接【下载】;
 
